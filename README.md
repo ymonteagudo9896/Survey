@@ -1,2 +1,2 @@
 # Survey.md
-Survey ling
+Surveylink
